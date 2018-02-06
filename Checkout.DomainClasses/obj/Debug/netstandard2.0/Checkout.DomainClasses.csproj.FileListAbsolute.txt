@@ -1,0 +1,11 @@
+E:\Checkout\Checkout.DomainClasses\bin\Debug\netstandard2.0\Checkout.DomainClasses.deps.json
+E:\Checkout\Checkout.DomainClasses\bin\Debug\netstandard2.0\Checkout.DomainClasses.dll
+E:\Checkout\Checkout.DomainClasses\bin\Debug\netstandard2.0\Checkout.DomainClasses.pdb
+E:\Checkout\Checkout.DomainClasses\bin\Debug\netstandard2.0\Checkout.Common.dll
+E:\Checkout\Checkout.DomainClasses\bin\Debug\netstandard2.0\Checkout.Common.pdb
+E:\Checkout\Checkout.DomainClasses\obj\Debug\netstandard2.0\Checkout.DomainClasses.csprojResolveAssemblyReference.cache
+E:\Checkout\Checkout.DomainClasses\obj\Debug\netstandard2.0\Checkout.DomainClasses.csproj.CoreCompileInputs.cache
+E:\Checkout\Checkout.DomainClasses\obj\Debug\netstandard2.0\Checkout.DomainClasses.AssemblyInfoInputs.cache
+E:\Checkout\Checkout.DomainClasses\obj\Debug\netstandard2.0\Checkout.DomainClasses.AssemblyInfo.cs
+E:\Checkout\Checkout.DomainClasses\obj\Debug\netstandard2.0\Checkout.DomainClasses.dll
+E:\Checkout\Checkout.DomainClasses\obj\Debug\netstandard2.0\Checkout.DomainClasses.pdb

@@ -1,0 +1,14 @@
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.deps.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.runtimeconfig.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.runtimeconfig.dev.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.csproj.CoreCompileInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.AssemblyInfoInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.AssemblyInfo.cs
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.dll
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Tests\Debug\netcoreapp2.0\Checkout.Tests.csprojResolveAssemblyReference.cache

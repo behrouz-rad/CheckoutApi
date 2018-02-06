@@ -1,0 +1,13 @@
+E:\Checkout\Checkout.DataLayer\bin\Debug\netstandard2.0\Checkout.DataLayer.deps.json
+E:\Checkout\Checkout.DataLayer\bin\Debug\netstandard2.0\Checkout.DataLayer.dll
+E:\Checkout\Checkout.DataLayer\bin\Debug\netstandard2.0\Checkout.DataLayer.pdb
+E:\Checkout\Checkout.DataLayer\bin\Debug\netstandard2.0\Checkout.Common.dll
+E:\Checkout\Checkout.DataLayer\bin\Debug\netstandard2.0\Checkout.DomainClasses.dll
+E:\Checkout\Checkout.DataLayer\bin\Debug\netstandard2.0\Checkout.Common.pdb
+E:\Checkout\Checkout.DataLayer\bin\Debug\netstandard2.0\Checkout.DomainClasses.pdb
+E:\Checkout\Checkout.DataLayer\obj\Debug\netstandard2.0\Checkout.DataLayer.csprojResolveAssemblyReference.cache
+E:\Checkout\Checkout.DataLayer\obj\Debug\netstandard2.0\Checkout.DataLayer.csproj.CoreCompileInputs.cache
+E:\Checkout\Checkout.DataLayer\obj\Debug\netstandard2.0\Checkout.DataLayer.AssemblyInfoInputs.cache
+E:\Checkout\Checkout.DataLayer\obj\Debug\netstandard2.0\Checkout.DataLayer.AssemblyInfo.cs
+E:\Checkout\Checkout.DataLayer\obj\Debug\netstandard2.0\Checkout.DataLayer.dll
+E:\Checkout\Checkout.DataLayer\obj\Debug\netstandard2.0\Checkout.DataLayer.pdb

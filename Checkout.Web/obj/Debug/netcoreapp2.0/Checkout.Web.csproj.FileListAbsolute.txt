@@ -1,0 +1,17 @@
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.Web.deps.json
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.Web.runtimeconfig.json
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.Web.runtimeconfig.dev.json
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.Web.dll
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.Web.pdb
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.Common.dll
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.DataLayer.dll
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.DomainClasses.dll
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.DataLayer.pdb
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.Common.pdb
+E:\Checkout\Checkout.Web\bin\Debug\netcoreapp2.0\Checkout.DomainClasses.pdb
+E:\Checkout\Checkout.Web\obj\Debug\netcoreapp2.0\Checkout.Web.csprojResolveAssemblyReference.cache
+E:\Checkout\Checkout.Web\obj\Debug\netcoreapp2.0\Checkout.Web.csproj.CoreCompileInputs.cache
+E:\Checkout\Checkout.Web\obj\Debug\netcoreapp2.0\Checkout.Web.AssemblyInfoInputs.cache
+E:\Checkout\Checkout.Web\obj\Debug\netcoreapp2.0\Checkout.Web.AssemblyInfo.cs
+E:\Checkout\Checkout.Web\obj\Debug\netcoreapp2.0\Checkout.Web.dll
+E:\Checkout\Checkout.Web\obj\Debug\netcoreapp2.0\Checkout.Web.pdb

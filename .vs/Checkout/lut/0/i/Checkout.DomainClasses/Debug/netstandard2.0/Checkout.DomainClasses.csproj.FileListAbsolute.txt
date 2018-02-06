@@ -1,0 +1,9 @@
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.deps.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.csproj.CoreCompileInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.AssemblyInfoInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.AssemblyInfo.cs
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.dll
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DomainClasses\Debug\netstandard2.0\Checkout.DomainClasses.csprojResolveAssemblyReference.cache

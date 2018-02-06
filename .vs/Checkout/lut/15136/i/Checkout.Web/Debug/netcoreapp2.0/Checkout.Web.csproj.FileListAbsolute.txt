@@ -1,0 +1,11 @@
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.deps.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.runtimeconfig.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.runtimeconfig.dev.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.csproj.CoreCompileInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.AssemblyInfoInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.AssemblyInfo.cs
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.dll
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.Web\Debug\netcoreapp2.0\Checkout.Web.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.deps.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.csprojResolveAssemblyReference.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.csproj.CoreCompileInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.AssemblyInfoInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.AssemblyInfo.cs
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.dll
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.DataLayer\Debug\netstandard2.0\Checkout.DataLayer.pdb

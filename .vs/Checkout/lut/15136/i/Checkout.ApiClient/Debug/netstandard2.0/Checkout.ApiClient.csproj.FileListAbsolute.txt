@@ -1,0 +1,9 @@
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.deps.json
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.dll
+E:\Checkout\.vs\Checkout\lut\0\b\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.pdb
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.csprojResolveAssemblyReference.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.csproj.CoreCompileInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.AssemblyInfoInputs.cache
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.AssemblyInfo.cs
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.dll
+E:\Checkout\.vs\Checkout\lut\0\i\Checkout.ApiClient\Debug\netstandard2.0\Checkout.ApiClient.pdb

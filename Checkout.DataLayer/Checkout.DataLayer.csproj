@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Checkout.Common\Checkout.Common.csproj" />
+    <ProjectReference Include="..\Checkout.DomainClasses\Checkout.DomainClasses.csproj" />
+  </ItemGroup>
+
+</Project>

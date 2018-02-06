@@ -1,0 +1,9 @@
+E:\Checkout\Checkout.Common\bin\Debug\netstandard2.0\Checkout.Common.deps.json
+E:\Checkout\Checkout.Common\bin\Debug\netstandard2.0\Checkout.Common.dll
+E:\Checkout\Checkout.Common\bin\Debug\netstandard2.0\Checkout.Common.pdb
+E:\Checkout\Checkout.Common\obj\Debug\netstandard2.0\Checkout.Common.csprojResolveAssemblyReference.cache
+E:\Checkout\Checkout.Common\obj\Debug\netstandard2.0\Checkout.Common.csproj.CoreCompileInputs.cache
+E:\Checkout\Checkout.Common\obj\Debug\netstandard2.0\Checkout.Common.AssemblyInfoInputs.cache
+E:\Checkout\Checkout.Common\obj\Debug\netstandard2.0\Checkout.Common.AssemblyInfo.cs
+E:\Checkout\Checkout.Common\obj\Debug\netstandard2.0\Checkout.Common.dll
+E:\Checkout\Checkout.Common\obj\Debug\netstandard2.0\Checkout.Common.pdb

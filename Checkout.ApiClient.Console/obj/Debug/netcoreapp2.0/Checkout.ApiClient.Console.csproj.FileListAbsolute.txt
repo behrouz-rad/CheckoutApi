@@ -1,0 +1,13 @@
+E:\Checkout\Checkout.ApiClient.Console\bin\Debug\netcoreapp2.0\Checkout.ApiClient.Console.deps.json
+E:\Checkout\Checkout.ApiClient.Console\bin\Debug\netcoreapp2.0\Checkout.ApiClient.Console.runtimeconfig.json
+E:\Checkout\Checkout.ApiClient.Console\bin\Debug\netcoreapp2.0\Checkout.ApiClient.Console.runtimeconfig.dev.json
+E:\Checkout\Checkout.ApiClient.Console\bin\Debug\netcoreapp2.0\Checkout.ApiClient.Console.dll
+E:\Checkout\Checkout.ApiClient.Console\bin\Debug\netcoreapp2.0\Checkout.ApiClient.Console.pdb
+E:\Checkout\Checkout.ApiClient.Console\bin\Debug\netcoreapp2.0\Checkout.ApiClient.dll
+E:\Checkout\Checkout.ApiClient.Console\bin\Debug\netcoreapp2.0\Checkout.ApiClient.pdb
+E:\Checkout\Checkout.ApiClient.Console\obj\Debug\netcoreapp2.0\Checkout.ApiClient.Console.csprojResolveAssemblyReference.cache
+E:\Checkout\Checkout.ApiClient.Console\obj\Debug\netcoreapp2.0\Checkout.ApiClient.Console.csproj.CoreCompileInputs.cache
+E:\Checkout\Checkout.ApiClient.Console\obj\Debug\netcoreapp2.0\Checkout.ApiClient.Console.AssemblyInfoInputs.cache
+E:\Checkout\Checkout.ApiClient.Console\obj\Debug\netcoreapp2.0\Checkout.ApiClient.Console.AssemblyInfo.cs
+E:\Checkout\Checkout.ApiClient.Console\obj\Debug\netcoreapp2.0\Checkout.ApiClient.Console.dll
+E:\Checkout\Checkout.ApiClient.Console\obj\Debug\netcoreapp2.0\Checkout.ApiClient.Console.pdb
